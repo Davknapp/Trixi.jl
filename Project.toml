@@ -50,7 +50,7 @@ Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
 TrixiMakieExt = "Makie"
 
 [compat]
-CodeTracking = "1.0.5"
+CodeTracking = "1.0.5, 2"
 ConstructionBase = "1.3"
 DiffEqCallbacks = "2.25"
 EllipsisNotation = "1.0"
